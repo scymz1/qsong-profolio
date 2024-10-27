@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Qianqian Song Lab",
-    "description":"Need some descriptions of Qianqian Song Lab here",
+    "description":"Welcome to Qianqian Song's Lab.",
     "image":"Qianqian_Song.jpg",
     "bio":"Assistant Professor & Director of Translational Bioinformatics\nBioinformatics, Biomedical Informatics\n Department of Health Outcomes and Biomedical Informatics\nCollege of Medicine, University of Florida",
     "contactmessage":"Feel free to contact me via email.",
@@ -71,16 +71,40 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"University of Florida",
+        "title":"Tenure-track Assistant Professor",
+        "years":"October 2023 - Present",
+        "description":"Department of Health Outcomes & Biomedical Informatics"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Wake Forest School of Medicine",
+        "title":"Tenure-track Assistant Professor",
+        "years":"April 2021 - October 2023",
+        "description":"Department of Cancer Biology"
+      },
+      {
+        "company":"Wake Forest School of Medicine",
+        "title":"Postdoctoral Fellow",
+        "years":"April 2018 - October 2021",
+        "description":"Department of Cancer Biology"
+      },
+      {
+        "company":"Wake Forest School of Medicine",
+        "title":"Joint-trained Ph.D. student",
+        "years":"September 2015 - July 2017",
+        "description":"Department of Radiology"
+      },
+      {
+        "company":"Wake Forest School of Medicine",
+        "title":"Research Fellow",
+        "years":"January 2013 - December 2013",
+        "description":"Department of Radiology"
+      },
+      {
+        "company":"The Methodist Research Institute, Weill Cornell Medical College",
+        "title":"Research Fellow",
+        "years":"October 2012 - January 2013",
+        "description":"Bioinformatics and Bioimaging"
       }
     ],
     "skills":[
@@ -190,6 +214,118 @@
       }
     ]
   },
+  "teams": {
+    "current": {
+      "Postdoc Fellow": [
+        {
+          "name": "Yanfei Wang, PhD (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2023 – current"
+        }
+      ],
+      "PhD student": [
+        {
+          "name": "Jialu Liang (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024 – current"
+        },
+        {
+          "name": "Yining Pan (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024 – current"
+        },
+        {
+          "name": "Aishwarya Budhkar (Co-advisor)",
+          "department": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington",
+          "time": "2023 – current"
+        },
+        {
+          "name": "Menghui Liu (Supervisory committee member)",
+          "department": "Department of Epidemiology, College of Public Health & Health Professions, UF",
+          "time": "2024 – current"
+        },
+        {
+          "name": "Zuotian Li (Co-advisor)",
+          "department": "Department of Computer Graphic Technology, Purdue University",
+          "time": "2024 – current"
+        }
+      ],
+      "MS student": [
+        {
+          "name": "Qing Wang (Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024 – current"
+        },
+        {
+          "name": "Minghao Zhou(Advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2023 – current"
+        }
+      ],
+      "High school students": [
+        {
+          "name": "Samuel Tong (Advisor)",
+          "department": "",
+          "time": "2024 – current"
+        }
+      ],
+      "Undergraduate students": [
+        {
+          "name": "Zijia Tang (Advisor)",
+          "department": "undergraduate student, Duke Unviersity",
+          "time": "2023 – current"
+        }
+      ]
+    },
+    "graduated": {
+      "PhD student": [
+        {
+          "name": "Ziyang Tang (Co-advisor, dissertation committee member)",
+          "department": "Department of Computer and Information Technology, Purdue University",
+          "time": "2024"
+        },
+        {
+          "name": "Farhad Dastmalchi (Supervisory committee member)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024"
+        }
+      ],
+      "MS student": [
+        {
+          "name": "Mengyuan Zhang (Supervisory committee member)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2024"
+        },
+        {
+          "name": "Zhaorui Liu (Co-advisor)",
+          "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
+          "time": "2023"
+        }
+      ],
+      "others": [
+        {
+          "name": "Mohammad Shafieinouri (MD-PhD Interview committee member)",
+          "department": "University of Maryland‐Baltimore",
+          "time": "2024"
+        },
+        {
+          "name": "Tatyana Cook (Advisor)",
+          "department": "Georgia Institute of Technology",
+          "time": "2022"
+        },
+        {
+          "name": "Chenhao Li (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
+          "time": "2022"
+        },
+        {
+          "name": "Zheyu Fu (Advisor)",
+          "department": "University of Illinois Urbana-Champaign",
+          "time": "2022"
+        }
+      ]
+    }
+  },
   "publications": {
     "ManuscriptUnderReview": [
       "Li B, Tang Z, Budhkar A, Zhang T, Yang B, Su J, Song Q*, \"SpaIM: Single-cell Spatial Transcriptomics Imputation via Style Transfer.\" Nature Communications",
@@ -286,5 +422,155 @@
       "Sun L, Song Q, Tian W, Zhang Z. “MiR-506 suppresses tumor progression by reprogramming macrophage polarization in pancreatic ductal adenocarcinoma.” Cancer Res 2019",
       "Wu D, Su J, Song Q, Zhou X. “SDF1/CXCR4 regulates stiffness of bone marrow stromal cell through RhoA and Rac1 GTPases pathway to support myeloma cell proliferation in multiple myeloma.” Cancer Research 2013"
     ]
-  }
+  },
+  "GrantsAndContractAwards": {
+    "OngoingResearchSupport": [
+      {
+        "id": "1R35GM151089-01 (Song)",
+        "time": "08/10/23 – 06/30/28",
+        "description": "Multi-modal insights of spatially distributed cells with associations of diseases and drug response. Aim: The overall goals are to develop a novel class of machine learning, statistical and deep learning approaches for the enhancement, prioritization, and interpretation of spatially organized cells in complex tissue, through leveraging resources including GWAS studies and pharmacogenomics knowledgebase, thus to better understand the molecular mechanisms underpinning disease and drug response.",
+        "role": "Principal Investigator, total award amount: $1,896,915"
+      },
+      {
+        "id": "1P30CA247796 (Licht)",
+        "time": "06/2023 – 05/2027",
+        "description": "University of Florida Health Cancer Center Support Grant. Aim: The new UFHCC strategic plan, Momentum 2027, has 4 pillars: 1) conduct transdisciplinary research (RNA biology, microbiome); 2) translate UFHCC discoveries to trials (immunotherapy, small molecules, cancer communication); 3) address cancer burden (cancer and aging, cancer health disparities); and, 4) train a prepared and diverse cancer research workforce, including leadership development. UFHCC is poised to make a major impact on the cancer burden of the catchment area, Florida, and beyond.",
+        "role": "Co-Investigator"
+      },
+      {
+        "id": "Rutgers State Contract (Sankyo)",
+        "time": "10/2023 – 10/2024",
+        "description": "Predicative Modeling of the Prevalence of Non-Small Cell Lung Cancer Biomarkers. Aim: We aim to assess the association of HER2 status with multiple demographic, behavioral, and clinical characteristics in geographically different and diverse populations within the United States. We will develop and validate the model using institutional electronic health records data from three cancer centers. We will then apply the prediction model to national cancer registry data to estimate the prevalence of HER2 status in NSCLC patients.",
+        "role": "Co-Investigator"
+      },
+      {
+        "id": "1RF1MH130782-01A1 (Lu)",
+        "time": "09/2023 – 08/2026",
+        "description": "A germline- and promoter-independent strategy to gain access to all cell types in the brain. Aim: We propose to develop an AAV-based Cell-Type-Specific Targeting (ACTSTar) system to enable easy access to any cell type in the brain in any species that is independent of germline modification and promoter isolation and characterization. We plan to generate a library of ACTSTar drivers to target 50 different brain cell types in the mouse and marmoset. In addition, to reduce off-target integration and neuroinflammation associated with long-term Cas9 expression, especially in long-term experiments in primates.",
+        "role": "Co-Investigator"
+      }
+    ],
+    "Pending": [
+      {
+        "id": "1R01HL180587-01 (Wang, Song, Li)",
+        "time": "07/2025 – 06/2030",
+        "description": "Multi-Modal AI Model for Enhancing Drug Screening in Peripheral Arterial Disease. Goal: The primary goal of this project is to revolutionize drug screening and therapeutic development for Peripheral Arterial Disease (PAD) by developing and integrating advanced multi-modal artificial intelligence (AI) technologies. This will involve combining spatial transcriptomics, pathology images, and a comprehensive knowledge graph with AI-driven approaches to better understand the PAD microenvironment and improve treatment options.",
+        "role": "Principal Investigator"
+      },
+      {
+        "id": "R01AG094917 (Song, Zhou)",
+        "time": "07/2025 – 06/2030",
+        "description": "Multi-organ and Multi-scale Computational Modeling of Alzheimer's Disease. Goal: This project seeks to advance our understanding of the genetic links between cardiovascular and neurological phenotypes, enhancing AD diagnosis and facilitating the development of personalized therapeutic strategies.",
+        "role": "Principal Investigator"
+      },
+      {
+        "id": "3R01CA296250-A1 (Su, Song, Shugg)",
+        "time": "07/2025 – 06/2030",
+        "description": "Live longer, live healthier: graph causal artificial intelligence for precision immunotherapy. Aim: Our multidisciplinary research team proposes to use a causal artificial intelligence model, gCAI, to reliably estimate the individual renal toxicity difference (ΔIRT) among candidate drugs as well as the individual treatment effects (ITE) for cancer patients. Such counterfactual prediction models will provide actionable knowledge of which treatments are safe and effective for a specific patient.",
+        "role": "Principal Investigator"
+      }
+    ],
+    "Completed": [
+      {
+        "id": "1R21CA267853-02 (Ming)",
+        "time": "12/2022 – 09/2023",
+        "description": "Targeted Anchoring Ecto-enzyme on Cancer Cell Surface to Enhance Antibody Therapy in Breast Cancer. Goal: We will elucidate the mechanisms of TME reprograming by surface ADA anchoring and will develop an approach to enhance surface ADA anchoring by combination with a tyrosine kinase inhibitor. This project can be directly translated into a targeted cancer immunotherapy to treat patients with HER2+ BC. By addressing lack of disease specificity, a main obstacle to the development of next-generation immunotherapeutic regimens, we will contribute to the use of precision medicine for cancer immunotherapy.",
+        "role": "Co-Investigator"
+      },
+      {
+        "id": "1R01CA258692-01A1 (Miller/Votanopoulos)",
+        "time": "01/2022 – 09/2023",
+        "description": "Establishing the Repertoire of Actionable Alterations in Appendiceal Adenocarcinoma. Overall goal: To develop a working knowledge base of the genetic alterations that underlie appendiceal adenocarcinoma (AA) and pursue development of actionable genetic tests to guide critical AA treatment decisions. My responsibility is to assist biologists to identify the genetic alterations in AA patients and related single-cell analysis.",
+        "role": "Co-Investigator"
+      },
+      {
+        "id": "1R01AI173277-01 (He)",
+        "time": "10/2022 – 04/2023",
+        "description": "Dissecting functions of IL-23-dependent inflammatory Th17 cells. Goal: We propose to identify the mechanisms by which a metabolomic enzyme is selectively required for Th17-mediated autoimmunity but not Th17-dependent defensive immunity.",
+        "role": "Co-Investigator"
+      }
+    ]
+  },
+  "DevelopedSoftwareAndTools": [
+    {
+      "name": "University of Florida Cancer data commons",
+      "description": "University of Florida Cancer data commons",
+      "link": "https://ufcdc-portal.org/"
+    },
+    {
+      "name": "DRMref",
+      "description": "Comprehensive reference map of drug resistance mechanisms in human cancer.",
+      "link": "https://ccsm.uth.edu/DRMref/"
+    },
+    {
+      "name": "scPerb",
+      "description": "Predict single-cell perturbation via style transfer-based variational autoencoder.",
+      "link": "https://github.com/QSong-github/scPerb"
+    },
+    {
+      "name": "xSiGra",
+      "description": "Explainable model for single-cell spatial data elucidation.",
+      "link": "https://github.com/QSong-github/xSiGra"
+    },
+    {
+      "name": "DrugFormer",
+      "description": "Graph-enhanced language model to predict drug sensitivity.",
+      "link": "https://github.com/QSong-github/DrugFormer"
+    },
+    {
+      "name": "AntiFormer",
+      "description": "Knowledge graph enhanced LLM for binding affinity prediction.",
+      "link": "https://github.com/QSong-github/AntiFormer"
+    },
+    {
+      "name": "HGGEP",
+      "description": "Gene Expression Prediction from Histology Images via Hypergraph Neural Networks.",
+      "link": "https://github.com/QSong-github/HGGEP"
+    },
+    {
+      "name": "SpaRx",
+      "description": "Elucidate spatial heterogeneity of drug sensitivity for personalized treatment.",
+      "link": "https://github.com/QSong-github/SpaRx"
+    },
+    {
+      "name": "SiGra",
+      "description": "Single-cell spatial elucidation through image-augmented graph transformer.",
+      "link": "https://github.com/QSong-github/SiGra"
+    },
+    {
+      "name": "spaCI",
+      "description": "Deciphering spatial cellular communications through adaptive graph model.",
+      "link": "https://github.com/QSong-github/spaCI"
+    },
+    {
+      "name": "SMGR",
+      "description": "A joint statistical method for integrative analysis of single-cell multi-omics data.",
+      "link": "https://github.com/QSong-github/SMGR"
+    },
+    {
+      "name": "BIMM",
+      "description": "Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data.",
+      "link": "https://github.com/QSong-github/BIMM"
+    },
+    {
+      "name": "scGCN",
+      "description": "A Graph Convolutional Networks Algorithm for Knowledge Transfer in Single Cell Omics.",
+      "link": "https://github.com/QSong-github/scGCN"
+    },
+    {
+      "name": "DSTG",
+      "description": "Deconvoluting Spatial Transcriptomics Data through Graph-based Artificial Intelligence.",
+      "link": "https://github.com/QSong-github/DSTG"
+    },
+    {
+      "name": "scLM",
+      "description": "Automatic detection of consensus gene clusters across multiple single-cell datasets.",
+      "link": "https://github.com/QSong-github/scLM"
+    },
+    {
+      "name": "SPN",
+      "description": "Biological mechanism in breast cancer with different proliferation levels.",
+      "link": "https://github.com/QSong-github/SPN"
+    }
+  ]
 }
