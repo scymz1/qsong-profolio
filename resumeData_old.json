@@ -220,8 +220,7 @@
         {
           "name": "Yanfei Wang, PhD (Advisor)",
           "department": "Department of Health Outcomes and Biomedical Informatics, College of Medicine, UF",
-          "time": "2023 – current",
-          "imagePath": "images/yanfei_wang.jpeg"
+          "time": "2023 – current"
         }
       ],
       "PhD student": [
@@ -236,10 +235,20 @@
           "time": "2024 – current"
         },
         {
+          "name": "Aishwarya Budhkar (Co-advisor)",
+          "department": "Luddy School of Informatics, Computing, and Engineering, Indiana University Bloomington",
+          "time": "2023 – current"
+        },
+        {
           "name": "Menghui Liu (Supervisory committee member)",
           "department": "Department of Epidemiology, College of Public Health & Health Professions, UF",
           "time": "2024 – current"
+        },
+        {: "Zuotian Li (Co-advisor)",
+          "department": "Department of Computer Graphic Technology, Purdue University",
+          "time": "2024 – current"
         }
+          "name"
       ],
       "MS student": [
         {

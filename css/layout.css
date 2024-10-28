@@ -308,7 +308,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 #teams h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 22px/30px 'opensans-bold', sans-serif;
    color: #555; /* A medium grey for contrast */
 }
 
@@ -337,6 +337,13 @@ ul#nav li.current a { color: #fe6928; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+
+/* {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+} */
+
 
 .team-section-header h4 {
    font-size: 30px; /* Larger font for emphasis */
