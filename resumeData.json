@@ -1,6 +1,7 @@
 {
   "main": {
     "name":"Qianqian Song Lab",
+    "labName": "Song Lab",
     "description":"Welcome to Qianqian Song's Lab.",
     "image":"Qianqian_Song.jpg",
     "bio":"Assistant Professor & Director of Translational Bioinformatics\nBioinformatics, Biomedical Informatics\n Department of Health Outcomes and Biomedical Informatics\nCollege of Medicine, University of Florida",
