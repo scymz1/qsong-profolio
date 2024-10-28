@@ -564,5 +564,90 @@
       "description": "Biological mechanism in breast cancer with different proliferation levels.",
       "link": "https://github.com/QSong-github/SPN"
     }
+  ],
+  "news": [
+    {
+      "date": "Sep 2023",
+      "description": "Our manuscript 'SpaRx: Elucidate single-cell spatial heterogeneity of drug responses for personalized treatment' is accepted by Briefings in Bioinformatics!"
+    },
+    {
+      "date": "Sep 2023",
+      "description": "Our manuscript 'Detection of lineage-reprogramming efficiency of tumor cells in a 3D-printed tumor-on-a-chip model' is accepted by Theranostics!"
+    },
+    {
+      "date": "Sep 2023",
+      "description": "Dr. Qianqian Song is invited to present at the Department of Biology, Wake Forest University"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "We are incredibly grateful to the NIH/NIGMS for funding our R35 MIRA grant (Maximizing Investigators Research Award) for the next 5 years!"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song is invited as reviewer for the GenBio workshop at NeurIPS 2023",
+      "additionalInfo": "https://genbio-workshop.github.io/index.html#"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song is invited as reviewer for the AI4Science workshop at NeurIPS 2023",
+      "additionalInfo": "https://ai4sciencecommunity.github.io/neurips23.html"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song attended the MCBIOS 2023 annual board retreat! Welcome to MCBIOS 2024 in Atlanta!"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song is invited to present at the NCI-FNL’s Clinical and Translational Serology Task Force (CTTF) monthly meeting"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Our manuscript 'Enhancing prognostic accuracy in head and neck squamous cell carcinoma chemotherapy via a lipid metabolism-related clustered polygenic model' is accepted by Cancer Cell International!"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song is invited to present at the Biocompare Bench Tip Webinar"
+    },
+    {
+      "date": "Aug 2023",
+      "description": "Dr. Qianqian Song is invited to present at the 4th Edition of International Precision Medicine Conference"
+    },
+    {
+      "date": "July 2023",
+      "description": "Our manuscript 'PINet: Privileged Information Improve the Interpretablity and generalization of structural MRI in Alzheimer’s Disease' is accepted by ACM-BCB 2023!"
+    },
+    {
+      "date": "July 2023",
+      "description": "Our manuscript 'Pathology Steered Stratification Network for Subtype Identification in Alzheimer’s Disease' is accepted by Medical Physics!"
+    },
+    {
+      "date": "July 2023",
+      "description": "Dr. Qianqian Song is invited to present at the International Conference on Intelligent Biology and Medicine (ICIBM)"
+    },
+    {
+      "date": "July 2023",
+      "description": "Our manuscript 'SiGra: Single-cell spatial elucidation through image- augmented graph transformer' is accepted for publication in Nature Communications!"
+    },
+    {
+      "date": "July 2023",
+      "description": "Dr. Qianqian Song is invited to present at the 8th edition of International Webinar on Aging and Rejuvenation"
+    },
+    {
+      "date": "July 2023",
+      "description": "Our manuscript 'Single Cell RNA Sequencing Reveals Pan-Brain Metastasis Immune Landscape' is accepted for publication in Communications Biology!"
+    },
+    {
+      "date": "July 2023",
+      "description": "Dr. Qianqian Song is invited as the Guest Editor in Mathematical Biosciences and Engineering"
+    },
+    {
+      "date": "Jun 2023",
+      "description": "Dr. Qianqian Song is elected as the Board Member of the MidSouth Computational Biology and Bioinformatics Society (MCIBIOS)"
+    },
+    {
+      "date": "Jun 2023",
+      "description": "Our manuscript 'Sample average treatment effect on the treated analysis using counterfactual explanation identifies BMT and SARS-CoV-2 vaccination as protective risk factors associated with COVID-19 severity and survival in patients with multiple myeloma' is accepted for publication in Blood Cancer Journal!"
+    }
   ]
+  
 }

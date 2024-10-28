@@ -183,7 +183,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #ffffff;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -194,12 +194,12 @@ ul#nav li.current a { color: #fe6928; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #313131;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #ccc;
+   color: #737373;
 }
 #about .profile-pic {
    position: relative;
@@ -225,6 +225,80 @@ ul#nav li.current a { color: #fe6928; }
    margin-right: 15px;
    font-size: 20px;
 }
+
+/* ------------------------------------------------------------------ */
+/* d. News Section
+/* ------------------------------------------------------------------ */
+
+#news {
+   background: #f4f4f4; /* Slightly different background to distinguish from other sections */
+   padding-top: 80px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#news a, #news a:visited { color: #6f42c1; } /* Dark purple for links */
+#news a:hover, #news a:focus { color: #333; }
+
+#news h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+#news h1 span {
+   border-bottom: 3px solid #6f42c1; /* Dark purple for the underline */
+   padding-bottom: 6px;
+}
+
+#news h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #444; /* Slightly darker shade for headings */
+}
+
+#news .header-col { padding-top: 9px; }
+#news .main-col { padding-right: 10%; }
+
+.news-category {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #DADADA; /* Slightly lighter border */
+}
+
+#news .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#news .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#news .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* Button styling */
+#news .button {
+   padding: 8px 16px;
+   border-radius: 20px;
+   background-color: #6f42c1; /* Dark purple for button */
+   color: white;
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+   font-size: 14px;
+   text-align: center;
+}
+
+#news .button:hover {
+   background-color: #5a339c; /* Darker shade on hover */
+}
+
 
 /* ------------------------------------------------------------------ */
 /* d. Publications Section
@@ -400,7 +474,7 @@ ul#nav li.current a { color: #fe6928; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 20px/30px 'opensans-bold', sans-serif;
 }
 
 #resume .header-col { padding-top: 9px; }
