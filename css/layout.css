@@ -231,7 +231,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #news {
-   background: #f4f4f4; /* Slightly different background to distinguish from other sections */
+   background: #f7f7f7; /* Slightly different background to distinguish from other sections */
    padding-top: 80px;
    padding-bottom: 72px;
    overflow: hidden;
