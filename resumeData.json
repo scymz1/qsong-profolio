@@ -22,24 +22,14 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://x.com/Sophie_QSong",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/qianqian-song-4501b56b/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
