@@ -383,7 +383,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 #teams h3 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 17px/23px 'opensans-bold', sans-serif;
    color: #555; /* A medium grey for contrast */
 }
 
@@ -421,13 +421,13 @@ ul#nav li.current a { color: #fe6928; }
 
 
 .team-section-header h4 {
-   font-size: 30px; /* Larger font for emphasis */
+   font-size: 24px; /* Larger font for emphasis */
    font-family: 'Georgia', serif; /* Elegant serif font */
    font-weight: bold;
    color: #333;
    text-transform: capitalize;
-   padding: 15px 0;
-   margin-bottom: 20px;
+   padding: 8px 0;
+   margin-bottom: 0px;
    position: relative;
    letter-spacing: 1.5px;
 }
