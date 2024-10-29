@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qsong-profolio/static/css/main.bab0b925.chunk.css",
-    "main.js": "/qsong-profolio/static/js/main.6ddea435.chunk.js",
-    "main.js.map": "/qsong-profolio/static/js/main.6ddea435.chunk.js.map",
+    "main.js": "/qsong-profolio/static/js/main.7608534c.chunk.js",
+    "main.js.map": "/qsong-profolio/static/js/main.7608534c.chunk.js.map",
     "runtime-main.js": "/qsong-profolio/static/js/runtime-main.5fa603db.js",
     "runtime-main.js.map": "/qsong-profolio/static/js/runtime-main.5fa603db.js.map",
     "static/js/2.60523a25.chunk.js": "/qsong-profolio/static/js/2.60523a25.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5fa603db.js",
     "static/js/2.60523a25.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.6ddea435.chunk.js"
+    "static/js/main.7608534c.chunk.js"
   ]
 }
