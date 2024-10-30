@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/qsong-profolio/static/css/main.bab0b925.chunk.css",
-    "main.js": "/qsong-profolio/static/js/main.b89d4522.chunk.js",
-    "main.js.map": "/qsong-profolio/static/js/main.b89d4522.chunk.js.map",
+    "main.js": "/qsong-profolio/static/js/main.77393f3f.chunk.js",
+    "main.js.map": "/qsong-profolio/static/js/main.77393f3f.chunk.js.map",
     "runtime-main.js": "/qsong-profolio/static/js/runtime-main.21851e74.js",
     "runtime-main.js.map": "/qsong-profolio/static/js/runtime-main.21851e74.js.map",
     "static/css/2.6b560088.chunk.css": "/qsong-profolio/static/css/2.6b560088.chunk.css",
-    "static/js/2.2d84af8f.chunk.js": "/qsong-profolio/static/js/2.2d84af8f.chunk.js",
-    "static/js/2.2d84af8f.chunk.js.map": "/qsong-profolio/static/js/2.2d84af8f.chunk.js.map",
+    "static/js/2.2030507e.chunk.js": "/qsong-profolio/static/js/2.2030507e.chunk.js",
+    "static/js/2.2030507e.chunk.js.map": "/qsong-profolio/static/js/2.2030507e.chunk.js.map",
     "static/js/3.c5e07394.chunk.js": "/qsong-profolio/static/js/3.c5e07394.chunk.js",
     "static/js/3.c5e07394.chunk.js.map": "/qsong-profolio/static/js/3.c5e07394.chunk.js.map",
     "index.html": "/qsong-profolio/index.html",
     "static/css/2.6b560088.chunk.css.map": "/qsong-profolio/static/css/2.6b560088.chunk.css.map",
     "static/css/main.bab0b925.chunk.css.map": "/qsong-profolio/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.2d84af8f.chunk.js.LICENSE.txt": "/qsong-profolio/static/js/2.2d84af8f.chunk.js.LICENSE.txt"
+    "static/js/2.2030507e.chunk.js.LICENSE.txt": "/qsong-profolio/static/js/2.2030507e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.21851e74.js",
     "static/css/2.6b560088.chunk.css",
-    "static/js/2.2d84af8f.chunk.js",
+    "static/js/2.2030507e.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.b89d4522.chunk.js"
+    "static/js/main.77393f3f.chunk.js"
   ]
 }
