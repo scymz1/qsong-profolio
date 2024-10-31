@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/qsong-profolio/static/css/main.e7422349.chunk.css",
-    "main.js": "/qsong-profolio/static/js/main.b64a2428.chunk.js",
-    "main.js.map": "/qsong-profolio/static/js/main.b64a2428.chunk.js.map",
+    "main.css": "/qsong-profolio/static/css/main.908c3871.chunk.css",
+    "main.js": "/qsong-profolio/static/js/main.4a94ce2f.chunk.js",
+    "main.js.map": "/qsong-profolio/static/js/main.4a94ce2f.chunk.js.map",
     "runtime-main.js": "/qsong-profolio/static/js/runtime-main.14d18bb2.js",
     "runtime-main.js.map": "/qsong-profolio/static/js/runtime-main.14d18bb2.js.map",
     "static/css/2.d3bc0dc5.chunk.css": "/qsong-profolio/static/css/2.d3bc0dc5.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.591f78fe.chunk.js.map": "/qsong-profolio/static/js/3.591f78fe.chunk.js.map",
     "index.html": "/qsong-profolio/index.html",
     "static/css/2.d3bc0dc5.chunk.css.map": "/qsong-profolio/static/css/2.d3bc0dc5.chunk.css.map",
-    "static/css/main.e7422349.chunk.css.map": "/qsong-profolio/static/css/main.e7422349.chunk.css.map",
+    "static/css/main.908c3871.chunk.css.map": "/qsong-profolio/static/css/main.908c3871.chunk.css.map",
     "static/js/2.13c6377f.chunk.js.LICENSE.txt": "/qsong-profolio/static/js/2.13c6377f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.14d18bb2.js",
     "static/css/2.d3bc0dc5.chunk.css",
     "static/js/2.13c6377f.chunk.js",
-    "static/css/main.e7422349.chunk.css",
-    "static/js/main.b64a2428.chunk.js"
+    "static/css/main.908c3871.chunk.css",
+    "static/js/main.4a94ce2f.chunk.js"
   ]
 }
