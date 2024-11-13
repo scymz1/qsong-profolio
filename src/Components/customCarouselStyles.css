@@ -1,0 +1,22 @@
+/* Add this to your custom CSS file or an existing stylesheet */
+.carousel .slide .legend {
+    bottom: 15px; /* Move the legend down */
+    /* transform: translateX(-50%); Center the caption horizontally */
+    opacity: 0.75; /* Make the caption more readable */
+    /* Add or modify other properties as needed */
+    font-size: 14px;
+}
+
+.carousel img{
+    padding-bottom: 101px; /* Adjust the value as needed */
+    vertical-align: center; 
+}
+
+
+.carousel  {
+    padding-top: 20px;
+    /* background-color: #b1b1b1;  */
+    /* background-image: "/images/carousel_BG.jpg"; */
+}
+
+

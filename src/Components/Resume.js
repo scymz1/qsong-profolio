@@ -39,7 +39,9 @@ class Resume extends Component {
           <p>{work.description}</p>
         </div>
       );
-    });
+    }); 
+
+    // console.log(publications);
 
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
@@ -84,7 +86,7 @@ class Resume extends Component {
           </div>
         </Slide>
 
-        <Slide left duration={1300}>
+        {/* <Slide left duration={1300}>
           <div className="row skill">
             <div className="three columns header-col">
               <h1>
@@ -100,7 +102,7 @@ class Resume extends Component {
               </div>
             </div>
           </div>
-        </Slide>
+        </Slide> */}
       </section>
     );
   }

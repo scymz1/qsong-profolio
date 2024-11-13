@@ -54,6 +54,7 @@ header .banner {
    text-align: center;
 }
 
+
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
@@ -182,7 +183,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #ffffff;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -193,12 +194,12 @@ ul#nav li.current a { color: #fe6928; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #313131;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #ccc;
+   color: #737373;
 }
 #about .profile-pic {
    position: relative;
@@ -225,6 +226,230 @@ ul#nav li.current a { color: #fe6928; }
    font-size: 20px;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. News Section
+/* ------------------------------------------------------------------ */
+
+#news {
+   background: #f7f7f7; /* Slightly different background to distinguish from other sections */
+   padding-top: 80px;
+   margin-top: -50px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#news a, #news a:visited { color: #6f42c1; } /* Dark purple for links */
+#news a:hover, #news a:focus { color: #333; }
+
+#news h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+#news h1 span {
+   border-bottom: 3px solid #007bff; /* Dark purple for the underline */
+   padding-bottom: 6px;
+}
+
+#news h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #444; /* Slightly darker shade for headings */
+}
+
+#news .header-col { padding-top: 9px; }
+#news .main-col { padding-right: 10%; }
+
+.news-category {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #DADADA; /* Slightly lighter border */
+}
+
+#news .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#news .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#news .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* Button styling */
+#news .button {
+   padding: 8px 16px;
+   border-radius: 20px;
+   background-color: #6f42c1; /* Dark purple for button */
+   color: white;
+   border: none;
+   cursor: pointer;
+   transition: background-color 0.3s ease;
+   font-size: 14px;
+   text-align: center;
+}
+
+#news .button:hover {
+   background-color: #5a339c; /* Darker shade on hover */
+}
+
+
+/* ------------------------------------------------------------------ */
+/* d. Publications Section
+/* ------------------------------------------------------------------ */
+
+#publications {
+   background: #f9f9f9; /* Slightly different background to distinguish */
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#publications a, #publications a:visited { color: #0762f9; }
+#publications a:hover, #publications a:focus { color: #333; }
+
+#publications h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+#publications h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#publications h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #444; /* Slightly darker shade */
+}
+
+#publications .header-col { padding-top: 9px; }
+#publications .main-col { padding-right: 10%; }
+
+.publication-category {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E0E0E0; /* Slightly lighter border */
+}
+
+#publications .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#publications .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#publications .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* e. Teams Section
+/* ------------------------------------------------------------------ */
+
+#teams {
+   background: #f7f7f7; /* Slightly lighter grey for a soft contrast */
+   padding-top: 85px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#teams a, #teams a:visited { color: #0762f9; }
+#teams a:hover, #teams a:focus { color: #3a3a3a; }
+
+#teams h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+#teams h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#teams h3 {
+   font: 17px/23px 'opensans-bold', sans-serif;
+   color: #555; /* A medium grey for contrast */
+}
+
+#teams .header-col { padding-top: 9px; }
+#teams .main-col { padding-right: 10%; }
+
+.team-category {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #D9D9D9; /* Slightly lighter border for soft separation */
+}
+
+#teams .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#teams .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#teams .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+} */
+
+
+.team-section-header h4 {
+   font-size: 24px; /* Larger font for emphasis */
+   font-family: 'Georgia', serif; /* Elegant serif font */
+   font-weight: bold;
+   color: #333;
+   text-transform: capitalize;
+   padding: 8px 0;
+   margin-bottom: 0px;
+   position: relative;
+   letter-spacing: 1.5px;
+}
+
+/* .team-section-header h4::after {
+   content: "";
+   position: absolute;
+   width: 50px;
+   height: 4px;
+   background-color: #0762f9;
+   left: 0;
+   bottom: -5px;
+   border-radius: 2px;
+} */
+
+#teams .team-section-header {
+   margin-top: 0px;
+   border-bottom: 1px solid #ddd;
+   padding-bottom: 10px;
+}
+
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
@@ -232,8 +457,8 @@ ul#nav li.current a { color: #fe6928; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 40px;
+   padding-bottom: 0px;
    overflow: hidden;
 }
 
@@ -250,14 +475,14 @@ ul#nav li.current a { color: #fe6928; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   font: 20px/30px 'opensans-bold', sans-serif;
 }
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
 .education, .work {
-   margin-bottom: 48px;
+   margin-top: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
@@ -273,6 +498,136 @@ ul#nav li.current a { color: #fe6928; }
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* e. Software & Tools Section
+/* ------------------------------------------------------------------ */
+
+#software-tools {
+   background: #f7f7f7; /* Light grey for subtle contrast */
+   padding-top: 40px;
+   padding-bottom: 20px;
+   overflow: hidden;
+}
+
+#software-tools a, #software-tools a:visited { 
+   color: #0762f9; /* Consistent link color */
+   text-decoration: underline;
+}
+#software-tools a:hover, #software-tools a:focus { 
+   color: #313131; 
+}
+
+#software-tools h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   line-height: 2.6;
+}
+
+#software-tools h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#software-tools h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #444; /* Slightly darker for emphasis */
+}
+
+#software-tools .header-col { padding-top: 9px; }
+#software-tools .main-col { padding-right: 10%; }
+
+.software-tool-item {
+   margin-top: 30px;
+   padding: 16px;
+   background: #ffffff;
+   border: 1px solid #e0e0e0;
+   border-radius: 8px;
+}
+
+#software-tools .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-top: 12px;
+   margin-bottom: 18px;
+}
+
+#software-tools .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#software-tools .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   color: #555;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* e. research Section
+/* ------------------------------------------------------------------ */
+
+#research {
+   background: #f7f7f7; /* Light grey for subtle contrast */
+   padding-top: 40px;
+   padding-bottom: 20px;
+   overflow: hidden;
+}
+
+#research a, #research a:visited { 
+   color: #0762f9; /* Consistent link color */
+   text-decoration: underline;
+}
+#research a:hover, #research a:focus { 
+   color: #313131; 
+}
+
+#research h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   line-height: 2.6;
+}
+
+#research h1 span {
+   border-bottom: 3px solid #0762f9;
+   padding-bottom: 6px;
+}
+
+#research h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+   color: #444; /* Slightly darker for emphasis */
+}
+
+#research .header-col { padding-top: 9px; }
+#research .main-col { padding-right: 10%; }
+
+.research-item {
+   margin-top: 30px;
+   padding: 16px;
+   background: #ffffff;
+   border: 1px solid #e0e0e0;
+   border-radius: 8px;
+}
+
+#research .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-top: 12px;
+   margin-bottom: 18px;
+}
+
+#research .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+
+#research .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   color: #555;
    margin-top: 6px;
 }
 
@@ -496,7 +851,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 .portfolio-item .portfolio-item-meta p {
    font: 12px/18px 'opensans-light', sans-serif;
-   color: #c6c7c7;
+   color: #030303;
    margin-bottom: 0;
 }
 
