@@ -248,7 +248,7 @@ ul#nav li.current a { color: #fe6928; }
 }
 
 #news h1 span {
-   border-bottom: 3px solid #6f42c1; /* Dark purple for the underline */
+   border-bottom: 3px solid #007bff; /* Dark purple for the underline */
    padding-bottom: 6px;
 }
 
